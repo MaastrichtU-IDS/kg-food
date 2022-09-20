@@ -3,8 +3,6 @@ A RDF Knowledge Graph for relevant information of food _e.g. Food CompositionDat
 
 
 ---
-
----
 ### Acknowledgement
 PLAYFAIR is funded by [CLARIAH Fellowship Call 2021](https://www.clariah.nl/news/clariah-fellowship-call-2021):
 
@@ -13,9 +11,9 @@ PLAYFAIR is funded by [CLARIAH Fellowship Call 2021](https://www.clariah.nl/news
 ---
 
 
-<a href="https://www.cost.eu/actions/CA19134/"><img src="images/logo-white.svg" width="150px" height="150px" alt="Const Action Logo" /></a>
+<a href="https://www.cost.eu/actions/CA19134/"><img src="images/logo-cost.jpg" width="150px" height="150px" alt="Cost Action Logo" /></a>
 
-This research received funding from COST Action CA19134 “Distributed Knowledge Graphs” (https://www.cost.eu/actions/CA19134/)[https://www.cost.eu/actions/CA19134/].
+This research received funding from COST Action CA19134 “Distributed Knowledge Graphs” [https://www.cost.eu/actions/CA19134/](https://www.cost.eu/actions/CA19134/).
 ## License
 
 **Copyright (C) 2022**
