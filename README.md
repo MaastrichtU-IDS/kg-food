@@ -1,6 +1,11 @@
 # 🥗 KG for food: towards a nutrition information Knowledge Graph
 A RDF Knowledge Graph for relevant information of food _e.g. Food CompositionData_.
 
+## Objective
+
+---
+
+## Methodology
 
 ---
 ### Acknowledgement
