@@ -1,0 +1,48 @@
+ES,EN,Automatic_mapping
+carbohidratos,carbohydrate,http://purl.obolibrary.org/obo/CHEBI_16646
+sacarosa,sucrose,http://purl.obolibrary.org/obo/CHEBI_17992
+Vitamina A equivalentes de retinol de actividades de retinos y carotenoides,vitamin A retinol equiv from retinol and carotenoid activities,http://purl.obolibrary.org/obo/CHEBI_17336
+Vitamina D,vitamin D,http://purl.obolibrary.org/obo/CHEBI_27300
+Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E,vitamin E alpha-tocopherol equiv from E vitamer activities,http://purl.obolibrary.org/obo/CHEBI_33234
+ácido graso 12:0 (láurico),fatty acid 12:0 (lauric acid),http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 14:0 (ácido mirístico),fatty acid 14:0 (myristic acid),http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 16:0 (ácido palmítico),fatty acid 16:0 (palmitic acid),http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 18:0 (ácido esteárico),fatty acid 18:0 (stearic acid),http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 18:1 n-9 cis (ácido oléico),fatty acid 18:1 n-9 cis (oleic acid),http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 18:2,fatty acid 18:2,http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 18:3,fatty acid 18:3,http://purl.obolibrary.org/obo/CHEBI_132502
+ácido graso 20:4 n-6  (ácido araquidónico),fatty acid 20:4 n-6 (arachidonic acid),http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 20:5 (ácido eicosapentaenóico),fatty acid 20:5 (eicopentaenoic acid),http://purl.obolibrary.org/obo/CHEBI_35366
+ácido graso 22:6 n-3 (ácido docosahexaenóico),fatty acid 22:6 n-3 (docosahexaenoic acid),http://purl.obolibrary.org/obo/CHEBI_35366
+"ácidos grasos, monoinsaturados totales","fatty acids, total monounsaturated",http://purl.obolibrary.org/obo/CHEBI_35366
+"ácidos grasos, poliinsaturados totales","fatty acids, total polyunsaturated",http://purl.obolibrary.org/obo/CHEBI_35366
+ácidos grasos saturados totales,"fatty acids, total saturated",http://purl.obolibrary.org/obo/CHEBI_35366
+"ácidos grasos, trans totales","fatty acids, total trans",http://purl.obolibrary.org/obo/CHEBI_35366
+"fibra, dietetica total","fibre, total dietary",http://purl.obolibrary.org/obo/FOODON_03401328
+calcio,calcium,http://purl.obolibrary.org/obo/CHEBI_22984
+"hierro, total","iron, total",http://purl.obolibrary.org/obo/CHEBI_18248
+potasio,potassium,http://purl.obolibrary.org/obo/CHEBI_26216
+magnesio,magnesium,http://purl.obolibrary.org/obo/CHEBI_25107
+sodio,sodium,http://purl.obolibrary.org/obo/CHEBI_26708
+fósforo,phosphorus,http://purl.obolibrary.org/obo/CHEBI_28659
+alcohol (etanol),alcohol (ethanol),http://purl.obolibrary.org/obo/CHEBI_30879
+"energía, total","energy, total metabolisable calculated from energy-producing food components",http://purl.obolibrary.org/obo/CHEBI_33290
+"grasa, total (lipidos totales)","fat, total (total lipid)",http://purl.obolibrary.org/obo/FOODON_00003265
+"proteina, total","protein, total",http://purl.obolibrary.org/obo/CHEBI_36080
+agua (humedad),water (moisture),http://purl.obolibrary.org/obo/FOODON_00002340
+"almidón, total","starch, total",http://purl.obolibrary.org/obo/CHEBI_28017
+colesterol,cholesterol,http://purl.obolibrary.org/obo/CHEBI_16113
+"azucares, totales","sugars, total",
+cobre,copper,http://purl.obolibrary.org/obo/CHEBI_28694
+ioduro,iodide,
+"selenio, total","selenium, total",http://purl.obolibrary.org/obo/CHEBI_27568
+zinc (cinc),zinc,http://purl.obolibrary.org/obo/CHEBI_27363
+biotina,biotin,http://purl.obolibrary.org/obo/CHEBI_15956
+"folato, total","folate, total",http://purl.obolibrary.org/obo/CHEBI_27470
+"equivalentes de niacina, totales","niacin equivalents, total",http://purl.obolibrary.org/obo/CHEBI_15940
+ácido pantoténico (vitamina B5),pantothenic acid (vitamin B5),http://purl.obolibrary.org/obo/CHEBI_46905
+riboflavina,riboflavin,http://purl.obolibrary.org/obo/CHEBI_17015
+tiamina,thiamin,
+Vitamina B-12,vitamin B-12,http://purl.obolibrary.org/obo/CHEBI_176843
+"Vitamina B-6, Total","vitamin B-6, total",http://purl.obolibrary.org/obo/CHEBI_27306
+Vitamina C (ácido ascórbico),vitamin C (ascorbic acid),http://purl.obolibrary.org/obo/CHEBI_22652

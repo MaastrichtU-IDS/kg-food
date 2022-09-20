@@ -1,0 +1,48 @@
+ES,EN,Automatic_mapping
+carbohidratos,carbohydrate,
+sacarosa,sucrose,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#sucrose
+Vitamina A equivalentes de retinol de actividades de retinos y carotenoides,vitamin A retinol equiv from retinol and carotenoid activities,
+Vitamina D,vitamin D,
+Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E,vitamin E alpha-tocopherol equiv from E vitamer activities,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#alpha-tocopherol
+ácido graso 12:0 (láurico),fatty acid 12:0 (lauric acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_12:0_(lauric_acid)
+ácido graso 14:0 (ácido mirístico),fatty acid 14:0 (myristic acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_14:0_(myristic_acid)
+ácido graso 16:0 (ácido palmítico),fatty acid 16:0 (palmitic acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_16:0_(palmitic_acid)
+ácido graso 18:0 (ácido esteárico),fatty acid 18:0 (stearic acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_18:0_(stearic_acid)
+ácido graso 18:1 n-9 cis (ácido oléico),fatty acid 18:1 n-9 cis (oleic acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_18:1_n-9_cis_(oleic_acid)
+ácido graso 18:2,fatty acid 18:2,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_18:2
+ácido graso 18:3,fatty acid 18:3,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_18:3
+ácido graso 20:4 n-6  (ácido araquidónico),fatty acid 20:4 n-6 (arachidonic acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_20:4_n-6
+ácido graso 20:5 (ácido eicosapentaenóico),fatty acid 20:5 (eicopentaenoic acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_20:5_(eicopentaenoic_acid)
+ácido graso 22:6 n-3 (ácido docosahexaenóico),fatty acid 22:6 n-3 (docosahexaenoic acid),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acid_22:6_n-3
+"ácidos grasos, monoinsaturados totales","fatty acids, total monounsaturated","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acids,_total_monounsaturated"
+"ácidos grasos, poliinsaturados totales","fatty acids, total polyunsaturated","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acids,_total_polyunsaturated"
+ácidos grasos saturados totales,"fatty acids, total saturated","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acids,_total_saturated"
+"ácidos grasos, trans totales","fatty acids, total trans","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fatty_acids,_total_trans"
+"fibra, dietetica total","fibre, total dietary","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fibre,_total_dietary"
+calcio,calcium,
+"hierro, total","iron, total",
+potasio,potassium,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#potassium
+magnesio,magnesium,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#magnesium
+sodio,sodium,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#sodium
+fósforo,phosphorus,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#phosphorus
+alcohol (etanol),alcohol (ethanol),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#ethanol
+"energía, total","energy, total metabolisable calculated from energy-producing food components","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#energy,_total_metabolisable"
+"grasa, total (lipidos totales)","fat, total (total lipid)","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#fat,_total"
+"proteina, total","protein, total","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#protein,_total"
+agua (humedad),water (moisture),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#water
+"almidón, total","starch, total","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#starch,_total"
+colesterol,cholesterol,
+"azucares, totales","sugars, total","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#sugars,_total"
+cobre,copper,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#copper
+ioduro,iodide,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#iodide
+"selenio, total","selenium, total",
+zinc (cinc),zinc,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#zinc
+biotina,biotin,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#biotin
+"folato, total","folate, total","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#folate,_total"
+"equivalentes de niacina, totales","niacin equivalents, total","http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#niacin_equivalents,_total"
+ácido pantoténico (vitamina B5),pantothenic acid (vitamin B5),http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#pantothenic_acid_(vitamin_b5)
+riboflavina,riboflavin,http://www.semanticweb.org/tome/ontologies/2015/7/Richfields#riboflavin
+tiamina,thiamin,
+Vitamina B-12,vitamin B-12,
+"Vitamina B-6, Total","vitamin B-6, total",
+Vitamina C (ácido ascórbico),vitamin C (ascorbic acid),
