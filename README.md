@@ -18,7 +18,7 @@ across Europe and enable scientists to grow their ideas by sharing them with the
  [https://www.cost.eu](https://www.cost.eu).
 
 
-<a href="https://www.maastrichtuniversity.nl/research/institute-data-science"><img src="images/Logo_IDS.jpg" width="150px" height="70px" alt="Institute of Data Science" /></a> <a href="https://www.cost.eu/actions/CA19134/"><img src="images/logo-cost.jpg" width="150px" height="70px" alt="Cost Action Logo" /><img src="images/eu_funded_en.jpg" width="100px" height="20px" alt="Cost Action Logo" /></a>
+<a href="https://www.maastrichtuniversity.nl/research/institute-data-science"><img src="images/Logo_IDS.jpg" width="150px" height="70px" alt="Institute of Data Science" /></a> <a href="https://www.cost.eu/actions/CA19134/"><img src="images/logo-cost.jpg" width="150px" height="70px" alt="Cost Action Logo" /><a href="https://www.cost.eu/actions/CA19134/"><img src="images/eu_funded_en.jpg" width="100px" height="20px" alt="EU Logo" /></a>
 
 This research received funding from COST Action CA19134 “Distributed Knowledge Graphs” [Website: https://www.cost.eu/actions/CA19134/](https://www.cost.eu/actions/CA19134/).
 ## License
