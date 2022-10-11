@@ -3,6 +3,8 @@ A RDF Knowledge Graph for relevant information of food _e.g. Food CompositionDat
 
 ## Objective
 
+We will explore how food prices impose an insurmountable barrier to improve diet quality. Using domain specific ontology e.g. FoodOn ontology or ISO-FOOD ontology, we will work on the harmonisation and integration of multi-lingual FCD that will serve as inputs for a recommendation system based on KG, which integrate multiple food price data sources e.g. WFP to enrich semantic information. The ultimate goal is to produce a KG with more comprehensive nutrition and food price information to monitor change in food price for nutrition and analyse change in cost affordability of healthy diets.
+
 ---
 
 ## Methodology
